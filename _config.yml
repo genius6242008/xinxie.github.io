@@ -1,3 +1,3 @@
 name: Xin Xie, Ph.D.
-markdown: markdown
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
