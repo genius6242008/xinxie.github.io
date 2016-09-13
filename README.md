@@ -1,1 +1,1 @@
-# xinxie.github.io
+# xinxie-cogsci.github.io
