@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xin Xie,Ph.D., starts to blog"
+title: "Xin Xie starts to blog"
 date: 2016-09-12
 ---
 
